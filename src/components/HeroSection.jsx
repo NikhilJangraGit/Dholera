@@ -50,7 +50,7 @@ const HeroSection = () => {
             </div>
           </div>
 
-          {/* Countdown Box - Floating effect downwards */}
+          
           <div className="pt-4 relative z-20 -mb-24 translate-y-6">
              <CountdownTimer />
           </div>

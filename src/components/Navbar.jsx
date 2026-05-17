@@ -24,8 +24,8 @@ const Navbar = () => {
         </div>
 
         {/* Call Button */}
-        <a href="tel:+918920816733" className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-500 px-4 h-full transition-colors text-sm font-black whitespace-nowrap ml-auto md:ml-0">
-          <Phone size={16} fill="white" /> <span className="hidden sm:inline">+91 8920816733</span><span className="sm:hidden">CALL</span>
+        <a href="tel:+919953510585" className="flex items-center justify-center gap-2 bg-green-600 hover:bg-green-500 px-4 h-full transition-colors text-sm font-black whitespace-nowrap ml-auto md:ml-0">
+          <Phone size={16} fill="white" /> <span className="hidden sm:inline">+91 9953510585</span><span className="sm:hidden">CALL</span>
         </a>
       </div>
 

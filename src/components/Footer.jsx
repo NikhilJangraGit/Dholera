@@ -50,7 +50,7 @@ const Footer = () => {
         <div className="w-full md:w-auto bg-[#072F15] text-white py-5 px-8 md:pl-20 md:pr-12 flex flex-col justify-center items-center md:items-start [clip-path:polygon(0_0,100%_0,100%_100%,0_100%)] md:[clip-path:polygon(40px_0,100%_0,100%_100%,0_100%)] md:-ml-10">
           <div className="flex flex-col items-center md:items-start">
              <span className="text-[11px] sm:text-xs font-bold text-gray-200 block mb-1">For More Information</span>
-             <a href="tel:+918920816733" className="text-xl sm:text-2xl font-black flex items-center gap-2 tracking-wide"><Phone size={18} fill="currentColor"/> +91 8920816733</a>
+             <a href="tel:+919953510585" className="text-xl sm:text-2xl font-black flex items-center gap-2 tracking-wide"><Phone size={18} fill="currentColor"/> +91 9953510585</a>
           </div>
         </div>
       </div>
